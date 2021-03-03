@@ -1,1 +1,1 @@
-Worker: node CFXFinder.js
+Worker: node index.js
